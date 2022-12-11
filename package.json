@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aavillanueva6/Move.git"
+    "url": "git+https://github.com/Niccatania/Move"
   },
   "keywords": [],
   "author": "",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/aavillanueva6/Move/issues"
   },
-  "homepage": "https://github.com/aavillanueva6/Move#readme",
+  "homepage": "https://github.com/Niccatania/Move",
   "devDependencies": {
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
