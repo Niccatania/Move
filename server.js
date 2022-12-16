@@ -18,7 +18,7 @@ const hbs = exphbs.create({ helpers });
 const hour = 1000 * 60 * 60;
 
 const sess = {
-  secret: mySecret,
+  secret: 'mySecret',
   cookie: {
     maxAge: hour * 24,
   },
